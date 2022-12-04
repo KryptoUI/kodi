@@ -5,14 +5,14 @@
     </requires>
     <extension point="xbmc.addon.repository" name="Alex Bratchik Kodi repository">
         <dir minversion="18.0" maxversion="18.9.0">
-            <info compressed="false">https://abratchik.github.io/kodi.repository/leia/addons.xml</info>
-            <checksum>https://abratchik.github.io/kodi.repository/leia/addons.xml.md5</checksum>
-            <datadir zip="true">https://abratchik.github.io/kodi.repository/leia/</datadir>
+            <info compressed="false">https://kryptoui.github.io/kodi/leia/addons.xml</info>
+            <checksum>https://kryptoui.github.io/kodi/leia/addons.xml.md5</checksum>
+            <datadir zip="true">https://kryptoui.github.io/kodi/leia/</datadir>
         </dir>
         <dir minversion="18.9.1">
-            <info compressed="false">https://abratchik.github.io/kodi.repository/matrix/addons.xml</info>
-            <checksum>https://abratchik.github.io/kodi.repository/matrix/addons.xml.md5</checksum>
-            <datadir zip="true">https://abratchik.github.io/kodi.repository/matrix/</datadir>
+            <info compressed="false">https://kryptoui.github.io/kodi/matrix/addons.xml</info>
+            <checksum>https://kryptoui.github.io/kodi/matrix/addons.xml.md5</checksum>
+            <datadir zip="true">https://kryptoui.github.io/kodi/matrix/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
