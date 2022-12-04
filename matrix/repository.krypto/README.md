@@ -1,5 +1,5 @@
-# Alex Bratchik Kodi repository
-Release 1.0.2
+# Krypto's Kodi repository
+Release 1.0.0
 
 This repository is created for distributing my own Kodi plugins. Enjoy!
 
@@ -13,5 +13,5 @@ This repository is created for distributing my own Kodi plugins. Enjoy!
 ## Zip Archives
 <pre>
 <img src="../../icons/folder.gif" alt="[DIR]" > <a href="../">../</a> 
-<img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="repository.abratchik-1.0.2.zip">repository.abratchik-1.0.2.zip</a> 
+<img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="repository.krypto-1.0.0.zip">repository.krypto-1.0.0.zip</a> 
 </pre>
