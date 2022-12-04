@@ -13,9 +13,9 @@
             <datadir zip="true">https://abratchik.github.io/kodi.repository/leia/</datadir>
         </dir>
         <dir minversion="18.9.1">
-            <info compressed="false">https://abratchik.github.io/kodi.repository/matrix/addons.xml</info>
-            <checksum>https://abratchik.github.io/kodi.repository/matrix/addons.xml.md5</checksum>
-            <datadir zip="true">https://abratchik.github.io/kodi.repository/matrix/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/kryptoui/kodi/master/matrix/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/kryptoui/kodi/master/matrix/addons.xml.md5</checksum>
+            <datadir zip="true">https://kryptoui.github.io/kodi/matrix/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
