@@ -10,8 +10,8 @@
             <datadir zip="true">https://kryptoui.github.io/kodi/leia/</datadir>
         </dir>
         <dir minversion="18.9.1">
-            <info compressed="false">https://kryptoui.github.io/kodi/matrix/addons.xml</info>
-            <checksum>https://kryptoui.github.io/kodi/matrix/addons.xml.md5</checksum>
+            <info compressed="false">https://raw.githubusercontent.com/kryptoui/kodi/master/matrix/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/kryptoui/kodi/master/matrix/addons.xml.md5</checksum>
             <datadir zip="true">https://kryptoui.github.io/kodi/matrix/</datadir>
         </dir>
     </extension>
