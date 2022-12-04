@@ -15,7 +15,7 @@ File Manager of your Kodi setup. The steps are below:
 
 1. Navigate to the **System** menu and click on **File Manager**
 2. Select **Add source**. 
-3. Click on **None** and add the path **https://abratchik.github.io/kodi.repository/**. 
+3. Click on **None** and add the path **https://kryptoui.github.io/kodi/**. 
    Please ensure you entered the correct path.
 5. Enter a name for this media source - "Alex Bratchik Kodi Repo"
 6. Click **OK** to save your changes
