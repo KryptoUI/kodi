@@ -1,4 +1,4 @@
-# Alex Bratchik Kodi repository
+# Krypto's Kodi repository
 <pre>
 <img src="../icons/folder.gif" alt="[DIR]" > <a href="../">../</a> 
 <img src="../icons/folder.gif" alt="[DIR]" > <a href="repository.abratchik/">repository.abratchik/</a> 
