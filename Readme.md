@@ -26,7 +26,7 @@ File Manager of your Kodi setup. The steps are below:
 9. You will see a zip file - for example **repository.krypto-1.0.0.zip**. Click on it
    and install.
    
-After this, n3f3x's Addon repository will be added to the list of available repositories
+After this, Krypto's Addon repository will be added to the list of available repositories
 in your Kodi setup.
 
 If you want to shortcut these steps, you may also download the zip file directly 
