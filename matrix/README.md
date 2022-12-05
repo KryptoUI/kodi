@@ -2,7 +2,5 @@
 <pre>
 <img src="../icons/folder.gif" alt="[DIR]" > <a href="../">../</a> 
 <img src="../icons/folder.gif" alt="[DIR]" > <a href="repository.krypto/">repository.krypto/</a> 
-<img src="../icons/folder.gif" alt="[DIR]" > <a href="plugin.video.smotrim.ru/">plugin.video.smotrim.ru/</a> 
 <img src="../icons/folder.gif" alt="[DIR]" > <a href="script.unlock.advancedsettings/">script.unlock.advancedsettings/</a> 
-<img src="../icons/folder.gif" alt="[DIR]" > <a href="plugin.video.yandex.zen/">plugin.video.yandex.zen/</a> 
 </pre>
