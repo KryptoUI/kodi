@@ -1,5 +1,5 @@
 # Krypto's Kodi repository
-Release 1.0.0
+Release 1.0.1
 
 This repository is created for distributing my own Kodi plugins. Enjoy!
 
