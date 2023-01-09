@@ -1,5 +1,5 @@
 # Krypto Wizard - Standalone
-Release 1.0.2
+Release 1.0.4
 
 This plugin allows you to use Krypto Wizard Builds in Kodi. 
 
@@ -14,6 +14,4 @@ This plugin allows you to use Krypto Wizard Builds in Kodi.
 <pre>
 <img src="../icons/folder.gif" alt="[DIR]" > <a href="../">../</a> 
 <img src="../icons/folder.gif" alt="[DIR]" > <a href="repository.krypto/">repository.krypto/</a> 
-<img src="../icons/folder.gif" alt="[DIR]" > <a href="plugin.program.kryptowiz/">plugin.program.kryptowiz/</a> 
-<img src="../icons/folder.gif" alt="[DIR]" > <a href="script.unlock.advancedsettings/">script.unlock.advancedsettings/</a> 
 </pre>
