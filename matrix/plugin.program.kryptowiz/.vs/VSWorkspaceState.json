@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\resources",
+    "\\resources\\libs"
   ],
-  "SelectedNode": "\\addon.xml",
+  "SelectedNode": "\\resources\\libs\\addonwindow.py",
   "PreviewInSolutionExplorer": false
 }
