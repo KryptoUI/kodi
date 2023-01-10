@@ -27,7 +27,7 @@ File Manager of your Kodi setup. The steps are below:
    **matrix**, or 
    **leia**,
    depending on the version of your Kodi, and then open **repository.krypto** folder.
-9. You will see a zip file - for example **repository.krypto-1.0.3.zip**. Click on it
+9. You will see a zip file - for example **repository.krypto-1.0.4.zip**. Click on it
    and install.
    
 After this, Krypto's Addon repository will be added to the list of available repositories
