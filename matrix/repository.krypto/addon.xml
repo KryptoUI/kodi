@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="repository.krypto" version="1.0.4" name="[COLOR orchid]Krypto's Repo[/COLOR]" provider-name="Krypto">
-	<requires>
-		<import addon="xbmc.addon" version="12.0.0"/>
-	</requires>
-    // REPOS
     <extension point="xbmc.addon.repository" name="[COLOR orchid]Krypto's Repo[/COLOR]">
 		<dir minversion="16.0.0" maxversion="18.9.9">
 			<info compressed="false">https://raw.githubusercontent.com/kryptoui/repozips/master/_zip/addons.xml</info>
@@ -31,7 +27,7 @@
 			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
 		</dir>
 	</extension>
-    /////TheCrewRepo////
+    <!--<TheCrewRepo>-->
     <dir minversion="16.0.0" maxversion="18.9.9">
 		<info compressed="false">https://raw.githubusercontent.com/thecrewwh/zips/master/_zip/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/thecrewwh/zips/master/_zip/addons.xml.md5</checksum>
