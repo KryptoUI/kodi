@@ -13,5 +13,5 @@ This plugin allows you to use Krypto Wizard Builds in Kodi.
  
 <pre>
 <img src="../icons/folder.gif" alt="[DIR]" > <a href="../">../</a> 
-<img src="../icons/folder.gif" alt="[DIR]" > <a href="repository.krypto/">repository.krypto/</a> 
+<img src="../icons/folder.gif" alt="[DIR]" > <a href="repository.krypto/">repository.krypto-repository.krypto-1.0.5.zip</a> 
 </pre>
