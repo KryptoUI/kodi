@@ -5,7 +5,7 @@
 (CURRENTLY A WIP)
 
 
-**Respoitory Krypto is not active for 1 day starting 11/01/2023 and finished maintenace on 12/01/2023**
+**Respoitory Krypto is not active for 1 day starting 11/01/2023 and finishes maintenace on 12/01/2023**
 
 
 
