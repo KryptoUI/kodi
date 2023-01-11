@@ -5,6 +5,10 @@
 (CURRENTLY A WIP)
 
 
+**Respoitory Krypto is not active for 1 day starting 11/01/2023 and finished maintenace on 12/01/2023**
+
+
+
 This is a non-commercial addon repository for [Kodi mediacenter](https://kodi.tv) 
 maintained by Krypto.
 It has been created to see if it was possible i could create a repo and maintain it using github's systems.
