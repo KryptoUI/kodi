@@ -1,5 +1,5 @@
 # Krypto Wizard - Standalone
-Release 1.0.5
+Release 1.0.7
 
 This plugin allows you to use Krypto Wizard Builds in Kodi. 
 
