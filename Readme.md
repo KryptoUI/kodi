@@ -4,6 +4,7 @@
 
 (CURRENTLY A WIP)
 
+RE-MADE PUBLIC AGAIN!
 
 This is a non-commercial addon repository for [Kodi mediacenter](https://kodi.tv) 
 maintained by Krypto.
